@@ -12,14 +12,14 @@ import Pricing from "./Components/Pricing/Pricing";
 function App() {
   return (
     <div className="relative scroll-smooth">
-      <Header />
-      <Home />
-      <AboutMe />
-      <WhatIdo />
-      <Skills />
-      <Experiences />
-      <Portfolio />
-      <Pricing />
+      // <Header />
+      // <Home />
+      // <AboutMe />
+      // <WhatIdo />
+      // <Skills />
+      // <Experiences />
+      // <Portfolio />
+      // <Pricing />
     </div>
   );
 }
